@@ -6,7 +6,7 @@ This repository contains software that you can use to set up your Windows deskto
 
 - Terminal 
   - https://ohmyposh.dev/
-- Widgets
+- Widget
   - https://www.rainmeter.net/
 - Plugins
   - https://www.deviantart.com/xenium-art/art/Tiny-Weather-Animated-UPDATED-25-JAN-2023-939250053
